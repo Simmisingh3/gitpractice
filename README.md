@@ -1,3 +1,6 @@
 ### Git and Github tutorials
 
-## Simmi SIngh
+## Simmi Singh
+
+
+### Github practice
